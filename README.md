@@ -1,6 +1,10 @@
-# Basit HTML Etiketleri ile Hakkımda Sayfası
+# HTML ile Oluşturduğum Hakkımda Sayfası
 
-### Kullandığım Etiketler
-- Paragraf: p
-- Başlıklar: h1,h2,h3,h4
-- Yorum satırı: !-- --
+Patika.dev yardımıyla öğrendiğim HTML yapılarını kullanarak bir hakkımda sayfası oluşturdum.
+
+### Kullandığım Yapılar
+- Linkler
+- Resimler
+- Paragraf
+- Başlık
+- Yorum satırı
